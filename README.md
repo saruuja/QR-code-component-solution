@@ -13,7 +13,8 @@ This is my First challenge  on Frontend Mentor. I have built a simple QR code co
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:[solution URL here](https://github.com/saruuja/QR-code-component-solution?tab=readme-ov-file)
+- Live Site URL:[live site URL here]( https://saruuja.github.io/QR-code-component-solution/)
 
 ## My process
 ### Built with
